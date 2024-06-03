@@ -40,3 +40,24 @@ This repository contains the files and configurations for the campus networking 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/10Faheem/Campus-Networking-Project.git
+   ## How to Use
+
+1. **Open in Cisco Packet Tracer**:
+   - Open Cisco Packet Tracer.
+   - Load the project file from the cloned repository.
+
+## Project Structure
+
+- `project-files/`: Contains all the network configuration files and diagrams.
+- `report/`: Detailed project report including network design, configurations, and analysis.
+- `presentation/`: Presentation and video demonstration of the project.
+
+## Contribution
+
+Feel free to fork this repository and contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## Credits
+
+Special thanks to [MusawirKtk](https://github.com/MusawirKtk) for his contributions and support.
+
+
